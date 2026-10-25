@@ -1,0 +1,7 @@
+{
+  "required": true,
+  "package": "dev.nocturne.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "LivingEntityRendererMixin", "ClientPlayerEntityMixin", "CameraMixin", "ClientPlayerInteractionManagerMixin"],
+  "injectors": { "defaultRequire": 1 }
+}
